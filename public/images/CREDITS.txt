@@ -1,0 +1,143 @@
+Image credits - Kafe Nespresso demo site
+All photos are licensed under Creative Commons (free for commercial use)
+fetched via Openverse (openverse.org)
+
+products/machine-erika.jpg
+    Title: Espresso machine
+    Author: JMacPherson
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/92c886cb-4f5b-4f82-b77b-f42097f29593/
+
+products/machine-vertoplus.jpg
+    Title: Coffee brewing machines lined up in a modern kitchen
+    Author: nenadstojkovicart
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/e6953719-fe66-4008-bbab-9c605955153a/
+
+products/machine-miniato.jpg
+    Title: Dual espresso machines
+    Author: Lars Plougmann
+    License: CC BY-SA
+    Source: https://api.openverse.org/v1/images/338ebad6-5779-431c-8101-c592bac89b17/
+
+products/cap-romeo.jpg
+    Title: Refillable Espresso Coffee Capsule Pods
+    Author: coffee-rank
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/b7d652b9-e21b-4cc1-af84-2d7ea459f8c9/
+
+products/cap-notella.jpg
+    Title: Mighty fine mocha at JJ Bean Woodwards
+    Author: roland
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/89d69c41-cc53-4bfb-aece-8eb82a1448aa/
+
+products/cap-longblack.jpg
+    Title: Close-up of dark roasted coffee beans
+    Author: Ken Otsuka (大澤一志)
+    License: CC0
+    Source: https://api.openverse.org/v1/images/85c49977-0a8c-4f0e-acd9-44b74ed0c496/
+
+products/cap-golden.jpg
+    Title: Bright black coffee morning light
+    Author: Charkrem
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/800ccaba-024f-45d9-90c6-0536b9fe4e39/
+
+products/cap-scarlett.jpg
+    Title: Espresso
+    Author: TheCulinaryGeek
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/81445c24-ad48-4bbf-90d6-218b14b2eaff/
+
+products/cap-vanilla.jpg
+    Title: Vanilla latte
+    Author: ginnerobot
+    License: CC BY-SA
+    Source: https://api.openverse.org/v1/images/db87747c-8025-4730-8437-d4888fc660f2/
+
+products/cap-chocolatte.jpg
+    Title: Hot chocolate drink
+    Author: TriggerHappyDave
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/7b0e49c5-5904-4931-a71d-fd00e80823d3/
+
+products/cap-caramel.jpg
+    Title: A latte macchiato experiment this morning
+    Author: insidious_plots
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/f3957992-f19c-4c0d-8a8a-939dc539a844/
+
+products/cap-icequeen.jpg
+    Title: Keeping It Cool (iced coffee)
+    Author: Andrew The Professor
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/9879bc30-229f-48d9-bb43-19ef9de435d7/
+
+products/cap-gift40.jpg
+    Title: Coffee Beans
+    Author: DeaPeaJay
+    License: CC BY-SA
+    Source: https://api.openverse.org/v1/images/ad9ecf9f-2e44-4cc6-8176-26462bfcc08f/
+
+products/acc-fompro.jpg
+    Title: Espresso with lots of frothed milk
+    Author: mdid
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/d9085316-cd6d-47c6-aa62-58ce9a06b139/
+
+products/acc-stand30.jpg
+    Title: Vertuoline coffee capsules
+    Author: coffee-rank
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/c9c5c782-f4c8-40f6-a74f-9a4bf289e699/
+
+products/acc-cups2.jpg
+    Title: A time for a cup of coffee
+    Author: OiMax
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/fac50360-37e5-4446-b57d-0fd417c6334e/
+
+products/acc-travelmug.jpg
+    Title: Insulated coffee cup
+    Author: coffee-rank
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/5ea414bb-68f3-460e-ba59-b9238e33e5db/
+
+products/acc-grinder.jpg
+    Title: Manual Coffee Grinder
+    Author: markolaz
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/b7c55b2e-af99-4f03-90fc-2bdc1824746a/
+
+hero/hero-latte-art.jpg
+    Title: Barista Crafting Latte Art
+    Author: markolaz
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/e9d8b3c6-3cd6-4e6f-8d9d-5b494a0bb06c/
+
+hero/hero-beans.jpg
+    Title: Roasted coffee beans
+    Author: AndreasPoike
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/638fbcaf-8835-4603-9fd6-7b40de61ceec/
+
+hero/hero-coffee-break.jpg
+    Title: Coffee break
+    Author: Ben124.
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/c8780fea-ba66-47ee-9822-951d24c8dab9/
+
+--- Added in retry ---
+
+products/machine-crystal.jpg
+    Title: Coffee machine in a kitchen with a cup
+    Author: nenadstojkovicart
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/ead55e4c-34b5-4b49-8940-e18b672f1756/
+
+products/machine-nova.jpg
+    Title: A coffee latte
+    Author: insidious_plots
+    License: CC BY
+    Source: https://api.openverse.org/v1/images/038c294e-de33-4e96-a3ec-20c4a5856eef/
