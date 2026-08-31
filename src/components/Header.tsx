@@ -89,8 +89,14 @@ export default function Header() {
           <Logo />
           <SearchBox className="mx-auto hidden w-full max-w-xl md:flex" />
           <Link
+            href="/account"
+            className="hidden items-center gap-1.5 rounded-xl border border-sand bg-white px-3 py-2.5 text-sm font-bold transition hover:border-caramel md:flex"
+          >
+            👤 حساب کاربری
+          </Link>
+          <Link
             href="/cart"
-            className="relative ms-auto flex items-center gap-2 rounded-xl border border-sand bg-white px-4 py-2.5 text-sm font-bold transition hover:border-caramel"
+            className="relative ms-auto flex items-center gap-2 rounded-xl border border-sand bg-white px-4 py-2.5 text-sm font-bold transition hover:border-caramel md:ms-0"
           >
             🛒 سبد خرید
             <span className="flex h-6 min-w-6 items-center justify-center rounded-full bg-espresso px-1.5 text-xs font-extrabold text-white">

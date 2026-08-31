@@ -20,7 +20,7 @@ export default function AdminDashboard({
   initialSite: SiteData;
 }) {
   const router = useRouter();
-  const [tab, setTab] = useState<"products" | "site">("products");
+  const [tab, setTab] = useState<"products" | "site" | "report">("products");
 
   const [items, setItems] = useState<RawItem[]>(initialProducts);
   const [query, setQuery] = useState("");
@@ -79,7 +79,7 @@ export default function AdminDashboard({
         name: "محصول جدید",
         brand: "Nespresso",
         category: "capsule-original",
-        priceTry: 100,
+        price: 100000,
         rating: 4.5,
         reviews: 10,
         desc: "",
@@ -136,12 +136,13 @@ export default function AdminDashboard({
           [
             ["products", `📦 محصولات (${items.length})`],
             ["site", "⚙️ بخش‌های سایت"],
+            ["report", "📊 گزارش مشتریان"],
           ] as const
         ).map(([key, label]) => (
           <button
             key={key}
             type="button"
-            onClick={() => setTab(key)}
+            onClick={() => setTab(key as typeof tab)}
             className={`rounded-xl px-5 py-2.5 text-sm font-bold transition ${
               tab === key
                 ? "bg-caramel text-white shadow"
@@ -153,7 +154,20 @@ export default function AdminDashboard({
         ))}
       </div>
 
-      {tab === "site" ? (
+      {tab === "report" ? (
+        <div className="rounded-2xl border border-latte bg-white p-6">
+          <h2 className="font-extrabold">گزارش مشتریان و خریدها</h2>
+          <p className="mt-2 text-sm leading-7 text-taiga">
+            فایل اکسل شامل دو شیت «مشتریان» و «سفارش‌ها» است. هر بار دانلود، یک کپی هم در <code className="rounded bg-cream px-1">admin-data/report-YYYY-MM-DD.xlsx</code> ذخیره می‌شود تا برای ربات تلگرام آینده قابل استفاده باشد.
+          </p>
+          <a
+            href="/api/admin/report"
+            className="mt-5 inline-block rounded-xl bg-espresso px-6 py-3 font-bold text-white transition hover:bg-mocha"
+          >
+            ⬇ دانلود گزارش اکسل
+          </a>
+        </div>
+      ) : tab === "site" ? (
         <SiteSettingsTab site={initialSite} />
       ) : (
         <div className="grid gap-6 lg:grid-cols-[340px_1fr]">
@@ -277,15 +291,14 @@ export default function AdminDashboard({
                       ))}
                     </select>
                   </Field>
-                  <Field label="قیمت (لیر)">
+                  <Field label="قیمت (تومان)">
                     <input
                       type="number"
-                      step="0.01"
                       dir="ltr"
                       className={inputCls}
-                      value={String(selected.priceTry ?? "")}
+                      value={String(selected.price ?? "")}
                       onChange={(e) =>
-                        updateSelected("priceTry", Number(e.target.value))
+                        updateSelected("price", Number(e.target.value))
                       }
                     />
                   </Field>

@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
 import ProductMedia from "@/components/ProductMedia";
 import { useCart } from "@/components/CartProvider";
 import {
@@ -12,7 +11,6 @@ import {
 
 export default function CartPage() {
   const { items, total, setQty, remove, clear } = useCart();
-  const [ordered, setOrdered] = useState(false);
 
   const shipping = total >= FREE_SHIPPING_THRESHOLD || total === 0 ? 0 : 450000;
   const remaining = Math.max(0, FREE_SHIPPING_THRESHOLD - total);
@@ -159,22 +157,12 @@ export default function CartPage() {
             </div>
           </dl>
 
-          {ordered ? (
-            <div className="mt-6 rounded-xl bg-emerald-50 p-4 text-center text-sm font-bold leading-7 text-emerald-800">
-              ✓ سفارش آزمایشی شما ثبت شد!
-              <span className="block text-xs font-normal text-emerald-700">
-                (این یک دمو است و درگاه پرداخت واقعی متصل نیست)
-              </span>
-            </div>
-          ) : (
-            <button
-              type="button"
-              onClick={() => setOrdered(true)}
-              className="mt-6 w-full rounded-xl bg-espresso py-4 font-extrabold text-white transition hover:bg-mocha active:scale-[.98]"
-            >
-              ادامه فرایند خرید
-            </button>
-          )}
+          <Link
+            href="/checkout"
+            className="mt-6 block w-full rounded-xl bg-espresso py-4 text-center font-extrabold text-white transition hover:bg-mocha active:scale-[.98]"
+          >
+            ادامه فرایند خرید
+          </Link>
 
           <Link
             href="/products"

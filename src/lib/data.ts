@@ -1,6 +1,3 @@
-import { generatedProducts } from "./products.generated";
-import { generatedExtraProducts } from "./products.extra.generated";
-import rateData from "./rate.json";
 import adminProductsJson from "../../admin-data/products.json";
 import siteDataJson from "../../admin-data/site.json";
 
@@ -24,7 +21,6 @@ export type Product = {
   brand: string;
   category: string;
   price: number;
-  priceTry?: number;
   oldPrice?: number;
   rating: number;
   reviews: number;
@@ -66,37 +62,13 @@ export const categoryGroups = [
   },
 ];
 
-/** نرخ تبدیل لیر ترکیه به تومان — توسط scripts/update-rate.js هفتگی بروز می‌شود */
-export const exchangeRate = rateData.rate as number;
-export const exchangeRateUpdatedAt = rateData.updatedAt as string;
+/** محصولات از پنل مدیریتی — قیمت مستقیم تومان (از اکسل) */
+const rawProducts = adminProductsJson as unknown as Product[];
 
-const roundToman = (try_: number) =>
-  Math.max(1000, Math.round((try_ * exchangeRate) / 1000) * 1000);
-
-type RawProduct = Omit<Product, "price" | "art"> & {
-  art: { type: string; from: string; to: string };
-  priceTry?: number;
-};
-
-/** محصولات از پنل مدیریتی (admin-data/products.json) — در نبود آن، داده تولیدی اولیه */
-const rawProducts: RawProduct[] = (adminProductsJson as RawProduct[]).length
-  ? (adminProductsJson as RawProduct[])
-  : [...generatedProducts, ...generatedExtraProducts];
-
-export const products: Product[] = rawProducts
-  .map((p) => ({
-    ...p,
-    art: { ...p.art, type: p.art.type as ArtType },
-    price: p.priceTry ? roundToman(p.priceTry) : 0,
-  }))
-  .filter((p) => !p.hidden);
+export const products: Product[] = rawProducts.filter((p) => !p.hidden);
 
 /** همه محصولات حتی مخفی‌ها — فقط برای پنل مدیریت */
-export const allProducts: Product[] = rawProducts.map((p) => ({
-  ...p,
-  art: { ...p.art, type: p.art.type as ArtType },
-  price: p.priceTry ? roundToman(p.priceTry) : 0,
-}));
+export const allProducts: Product[] = rawProducts;
 
 export const siteContent = siteDataJson as SiteContent;
 

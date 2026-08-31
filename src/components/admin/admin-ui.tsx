@@ -22,7 +22,7 @@ export type RawItem = Record<string, unknown> & {
   slug: string;
   name?: string;
   category?: string;
-  priceTry?: number;
+  price?: number;
   intensity?: number | null;
   badge?: string | null;
   desc?: string;

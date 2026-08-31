@@ -13,8 +13,15 @@ if not exist "%TOKENFILE%" (
 
 set /p GHTOKEN=<"%TOKENFILE%"
 
-echo [%time%] Updating TRY rate from tgju...
-call node scripts\update-rate.js
+if exist "Benso_Catalog.xlsx" (
+    echo [%time%] Importing Excel...
+    call node scripts\import-excel.js
+    if errorlevel 1 (
+        echo Excel import failed!
+        pause
+        exit /b 1
+    )
+)
 
 echo [%time%] Building...
 call npm run build
