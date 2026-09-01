@@ -55,13 +55,11 @@ export default function Footer() {
               target="_blank"
               href="https://trustseal.enamad.ir/?id=7559116&Code=xB6VMOuKz9pvkloY2J87TQplz5gULMGG"
             >
-              {/* @ts-ignore - Enamad requires custom 'code' attribute */}
               <img
                 referrerPolicy="origin"
                 src="https://trustseal.enamad.ir/logo.aspx?id=7559116&Code=xB6VMOuKz9pvkloY2J87TQplz5gULMGG"
                 alt="نماد اعتماد الکترونیکی"
                 style={{ cursor: "pointer" }}
-                code="xB6VMOuKz9pvkloY2J87TQplz5gULMGG"
               />
             </a>
           </div>
