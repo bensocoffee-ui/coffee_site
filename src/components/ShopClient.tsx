@@ -23,6 +23,7 @@ export default function ShopClient() {
   const router = useRouter();
   const params = useSearchParams();
   const cat = params.get("cat") ?? "";
+  const group = params.get("group") ?? "";
   const q = params.get("q") ?? "";
   const [sort, setSort] = useState<SortKey>("newest");
 
@@ -50,6 +51,7 @@ export default function ShopClient() {
   const filtered = useMemo(() => {
     let list = [...products];
     if (cat) list = list.filter((p) => p.category === cat);
+    else if (group) list = list.filter((p) => p.category.startsWith(group));
     if (q.trim()) {
       const needle = q.trim().toLowerCase();
       list = list.filter(

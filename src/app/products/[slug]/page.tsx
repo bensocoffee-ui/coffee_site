@@ -124,29 +124,65 @@ export default async function ProductPage(
           </ul>
 
           <div className="rounded-2xl border border-latte bg-white p-5">
-            <div className="flex items-end justify-between gap-4">
-              <div>
-                {product.oldPrice && (
-                  <div className="text-sm text-taiga line-through">
-                    {formatToman(product.oldPrice)}
+            {product.category.startsWith("machine") || product.category === "accessory" || product.price === 0 ? (
+              <>
+                <div className="flex items-center justify-between gap-4">
+                  <div>
+                    <span className="text-xs font-semibold text-taiga">وضعیت قیمت:</span>
+                    <div className="text-2xl font-black text-caramel-dark">
+                      برای قیمت تماس بگیرید
+                    </div>
                   </div>
-                )}
-                <div className="text-2xl font-black text-espresso">
-                  {formatToman(product.price)}
+                  <span className="rounded-full bg-latte px-3 py-1 text-xs font-bold text-espresso border border-sand">
+                    {product.category.startsWith("machine") ? "۱۸ ماه گارانتی تعویض" : "اصالت تضمینی"}
+                  </span>
                 </div>
-              </div>
-              <span className="text-xs font-bold text-emerald-700">موجود در انبار ✓</span>
-            </div>
-            <div className="mt-5">
-              <AddToCart slug={product.slug} withQty />
-            </div>
+                <div className="mt-5 flex flex-col gap-2.5 sm:flex-row">
+                  <a
+                    href="tel:09307021608"
+                    className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-espresso py-3.5 text-sm font-bold text-white transition hover:bg-mocha"
+                  >
+                    <span>📞 استعلام تلفنی و سفارش:</span>
+                    <span dir="ltr">09307021608</span>
+                  </a>
+                  <a
+                    href="https://t.me/bensocoffee"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="flex items-center justify-center gap-2 rounded-xl border border-sand bg-latte px-6 py-3.5 text-sm font-bold text-espresso transition hover:bg-sand"
+                  >
+                    <span>پیام در تلگرام</span>
+                  </a>
+                </div>
+              </>
+            ) : (
+              <>
+                <div className="flex items-end justify-between gap-4">
+                  <div>
+                    {product.oldPrice && (
+                      <div className="text-sm text-taiga line-through">
+                        {formatToman(product.oldPrice)}
+                      </div>
+                    )}
+                    <div className="text-2xl font-black text-espresso">
+                      {formatToman(product.price)}
+                    </div>
+                    <span className="text-xs text-taiga font-medium">بسته ۱۰ عددی کپسول</span>
+                  </div>
+                  <span className="text-xs font-bold text-emerald-700">موجود در انبار مشهد ✓</span>
+                </div>
+                <div className="mt-5">
+                  <AddToCart slug={product.slug} withQty />
+                </div>
+              </>
+            )}
           </div>
 
           <div className="grid grid-cols-2 gap-3 text-center text-xs text-taiga sm:grid-cols-4">
-            <div className="rounded-xl border border-latte bg-white p-3">🚚 ارسال سریع</div>
-            <div className="rounded-xl border border-latte bg-white p-3">🛡️ گارانتی اصالت</div>
-            <div className="rounded-xl border border-latte bg-white p-3">🔄 ۷ روز بازگشت</div>
-            <div className="rounded-xl border border-latte bg-white p-3">💳 پرداخت در محل</div>
+            <div className="rounded-xl border border-latte bg-white p-3 font-semibold">⚡ تحویل ۲ ساعته مشهد</div>
+            <div className="rounded-xl border border-latte bg-white p-3 font-semibold">🛡️ ۱۸ ماه گارانتی تعویض</div>
+            <div className="rounded-xl border border-latte bg-white p-3 font-semibold">☕ تست حضوری در کافه</div>
+            <div className="rounded-xl border border-latte bg-white p-3 font-semibold">💳 پرداخت در محل و شتابی</div>
           </div>
         </div>
       </div>

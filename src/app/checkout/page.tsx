@@ -16,6 +16,7 @@ export default function CheckoutPage() {
   const [address, setAddress] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [payMethod, setPayMethod] = useState<"gateway" | "cod" | "card">("gateway");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -104,6 +105,74 @@ export default function CheckoutPage() {
           <span className="mt-1 block text-[11px] text-taiga">با همین شماره و رمز بعدا وارد حساب می‌شوی</span>
         </label>
 
+        <div className="space-y-3 pt-2">
+          <span className="block text-xs font-bold text-espresso">شیوه پرداخت *</span>
+          <div className="grid gap-3 sm:grid-cols-3">
+            <label
+              className={`flex cursor-pointer flex-col justify-between rounded-xl border p-3.5 transition ${
+                payMethod === "gateway"
+                  ? "border-caramel bg-latte/40 shadow-sm"
+                  : "border-latte bg-white hover:border-sand"
+              }`}
+            >
+              <div className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name="payMethod"
+                  value="gateway"
+                  checked={payMethod === "gateway"}
+                  onChange={() => setPayMethod("gateway")}
+                  className="text-caramel"
+                />
+                <span className="text-xs font-extrabold text-espresso">درگاه پرداخت شتابی</span>
+              </div>
+              <span className="mt-2 text-[11px] text-taiga">زرین‌پال / زیبال با کلیه کارت‌های بانکی</span>
+            </label>
+
+            <label
+              className={`flex cursor-pointer flex-col justify-between rounded-xl border p-3.5 transition ${
+                payMethod === "cod"
+                  ? "border-caramel bg-latte/40 shadow-sm"
+                  : "border-latte bg-white hover:border-sand"
+              }`}
+            >
+              <div className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name="payMethod"
+                  value="cod"
+                  checked={payMethod === "cod"}
+                  onChange={() => setPayMethod("cod")}
+                  className="text-caramel"
+                />
+                <span className="text-xs font-extrabold text-espresso">پرداخت در محل</span>
+              </div>
+              <span className="mt-2 text-[11px] text-taiga">ویژه شهر مشهد (تحویل با دستگاه کارتخوان)</span>
+            </label>
+
+            <label
+              className={`flex cursor-pointer flex-col justify-between rounded-xl border p-3.5 transition ${
+                payMethod === "card"
+                  ? "border-caramel bg-latte/40 shadow-sm"
+                  : "border-latte bg-white hover:border-sand"
+              }`}
+            >
+              <div className="flex items-center gap-2">
+                <input
+                  type="radio"
+                  name="payMethod"
+                  value="card"
+                  checked={payMethod === "card"}
+                  onChange={() => setPayMethod("card")}
+                  className="text-caramel"
+                />
+                <span className="text-xs font-extrabold text-espresso">کارت‌به‌کارت مستقیم</span>
+              </div>
+              <span className="mt-2 text-[11px] text-taiga">واریز و ارسال فیش در تلگرام/واتساپ</span>
+            </label>
+          </div>
+        </div>
+
         <div className="rounded-xl bg-cream p-4 text-sm">
           <div className="flex justify-between"><span>جمع کالاها</span><b>{formatToman(total)}</b></div>
           <div className="flex justify-between mt-2"><span>ارسال</span><b>{shipping === 0 ? "رایگان" : formatToman(shipping)}</b></div>
@@ -113,7 +182,7 @@ export default function CheckoutPage() {
         {error && <p className="text-sm font-bold text-red-600">{error}</p>}
 
         <button type="submit" disabled={loading} className="w-full rounded-xl bg-espresso py-4 font-extrabold text-white transition hover:bg-mocha disabled:opacity-50">
-          {loading ? "در حال ثبت..." : "ثبت سفارش و ساخت حساب"}
+          {loading ? "در حال انتقال به پرداخت..." : payMethod === "gateway" ? "اتصال به درگاه پرداخت شاپرک" : "ثبت سفارش نهایی"}
         </button>
       </form>
 

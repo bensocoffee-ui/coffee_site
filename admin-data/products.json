@@ -20,7 +20,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7928.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "arpeggio-decaffeinato",
@@ -45,7 +46,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7943.40.jpg",
-    "price": 167000
+    "price": 2050000,
+    "oldPrice": null
   },
   {
     "slug": "arpeggio-extra",
@@ -68,7 +70,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7967.40.jpg",
-    "price": 175000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "athens-freddo-intenso",
@@ -90,7 +93,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7944.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "barista-coffee-selection-80-capsules",
@@ -112,7 +116,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_136226.jpg",
-    "price": 14087000
+    "price": 14087000,
+    "hidden": true
   },
   {
     "slug": "buenos-aires-lungo",
@@ -135,7 +140,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7946.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "cape-town-lungo",
@@ -158,7 +164,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7948.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "capriccio",
@@ -181,7 +188,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7961.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "caramello",
@@ -203,7 +211,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7964.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "chiaro",
@@ -225,7 +234,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7892.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "cinnamon-and-candied-tamarind",
@@ -247,7 +257,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7903.40.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "cioccolatino",
@@ -269,7 +280,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7968.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "colombia",
@@ -292,7 +304,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7929.40.jpg",
-    "price": 200000
+    "price": 2480000,
+    "oldPrice": null
   },
   {
     "slug": "corto",
@@ -314,7 +327,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7871.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "cosi",
@@ -337,7 +351,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7969.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "ethiopia",
@@ -360,7 +375,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7886.40.jpg",
-    "price": 200000
+    "price": 2480000,
+    "oldPrice": null
   },
   {
     "slug": "fall-coffee-selection-100-capsules",
@@ -382,7 +398,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_161408.jpg",
-    "price": 18643000
+    "price": 18643000,
+    "hidden": true
   },
   {
     "slug": "fall-coffee-selection-100-capsules-old",
@@ -404,7 +421,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_145524.jpg",
-    "price": 10116000
+    "price": 10116000,
+    "hidden": true
   },
   {
     "slug": "festive-collection-espresso",
@@ -427,7 +445,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7919.40.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "filter-style-intense",
@@ -449,7 +468,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7780.40.jpg",
-    "price": 179000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "filter-style-mild",
@@ -471,7 +491,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7783.40.jpg",
-    "price": 179000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "freddo-delicato",
@@ -493,7 +514,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7870.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "freddo-intenso",
@@ -515,7 +537,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7883.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "india",
@@ -539,7 +562,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7977.40.jpg",
-    "price": 200000
+    "price": 2480000,
+    "oldPrice": null
   },
   {
     "slug": "indonesia",
@@ -562,7 +586,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7975.40.jpg",
-    "price": 200000
+    "price": 2480000,
+    "oldPrice": null
   },
   {
     "slug": "ispirazione-italiana-coffee-selection-100-capsules",
@@ -584,7 +609,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_164764.jpg",
-    "price": 16386000
+    "price": 16386000,
+    "hidden": true
   },
   {
     "slug": "ispirazione-napoli",
@@ -608,7 +634,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7984.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "ispirazione-roma",
@@ -631,7 +658,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7985.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "ispirazione-venezia",
@@ -654,7 +682,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7986.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "istanbul-espresso",
@@ -677,7 +706,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7877.40.jpg",
-    "price": 179000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "kazaar",
@@ -701,7 +731,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7972.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "light-roast-coffee-selection-50-capsules",
@@ -723,7 +754,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_135411.jpg",
-    "price": 4264000
+    "price": 4264000,
+    "hidden": true
   },
   {
     "slug": "livanto",
@@ -746,7 +778,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7979.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "lungo-coffee-selection-100-capsules",
@@ -768,7 +801,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_157966.jpg",
-    "price": 15587000
+    "price": 15587000,
+    "hidden": true
   },
   {
     "slug": "milano-intenso",
@@ -791,7 +825,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7791.40.jpg",
-    "price": 94000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "maple-pecan-original",
@@ -813,7 +848,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7917.40.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-t-rkiye-best-sellers-100-capsules",
@@ -834,7 +870,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_135410.jpg",
-    "price": 17765000
+    "price": 17765000,
+    "hidden": true
   },
   {
     "slug": "nespresso-welcoming-selection-200-capsules",
@@ -856,7 +893,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_135413.jpg",
-    "price": 35572000
+    "price": 35572000,
+    "hidden": true
   },
   {
     "slug": "nicaragua",
@@ -879,7 +917,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7973.40.jpg",
-    "price": 200000
+    "price": 2480000,
+    "oldPrice": null
   },
   {
     "slug": "nocciola",
@@ -901,7 +940,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7937.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "original-summer-coffee-selection-100-capsules",
@@ -923,7 +963,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_165785.jpg",
-    "price": 19019000
+    "price": 19019000,
+    "hidden": true
   },
   {
     "slug": "paris-espresso",
@@ -946,7 +987,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7965.40.jpg",
-    "price": 179000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "peanut-and-roasted-sesame-flavour-original-coffee",
@@ -968,7 +1010,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7850.04.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "pistachio-vanilla-flavour-over-ice-original",
@@ -990,7 +1033,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7906.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "premium-coffee-selection-50-capsules",
@@ -1012,7 +1056,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_155475.jpg",
-    "price": 9133000
+    "price": 9133000,
+    "hidden": true
   },
   {
     "slug": "pumpkin-spice-cake-original",
@@ -1034,7 +1079,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7835.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "rio-de-janeiro-espresso",
@@ -1057,7 +1103,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7966.40.jpg",
-    "price": 179000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "ristretto",
@@ -1080,7 +1127,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7987.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "ristretto-decaffeinato",
@@ -1105,7 +1153,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7980.40.jpg",
-    "price": 167000
+    "price": 2050000,
+    "oldPrice": null
   },
   {
     "slug": "scuro",
@@ -1127,7 +1176,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7891.40.jpg",
-    "price": 196000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "shanghai-lungo",
@@ -1150,7 +1200,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7947.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "stockholm-lungo",
@@ -1173,7 +1224,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7926.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "sweet-almond-and-hibiscus",
@@ -1195,7 +1247,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7907.40.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "tokyo-lungo",
@@ -1218,7 +1271,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7936.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "vanilla-eclair",
@@ -1240,7 +1294,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7753.40.jpg",
-    "price": 92000
+    "price": 2390000,
+    "oldPrice": null
   },
   {
     "slug": "vaniglia",
@@ -1262,7 +1317,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7933.40.jpg",
-    "price": 196000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "vaniglia-decaffeinato",
@@ -1286,7 +1342,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7988.40.jpg",
-    "price": 200000
+    "price": 2050000,
+    "oldPrice": null
   },
   {
     "slug": "vienna-lungo",
@@ -1309,7 +1366,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7959.40.jpg",
-    "price": 192000
+    "price": 2280000,
+    "oldPrice": null
   },
   {
     "slug": "vienna-lungo-decaffeinato",
@@ -1334,7 +1392,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7051.40.jpg",
-    "price": 196000
+    "price": 2050000,
+    "oldPrice": null
   },
   {
     "slug": "volluto",
@@ -1357,7 +1416,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7983.40.jpg",
-    "price": 163000
+    "price": 1980000,
+    "oldPrice": null
   },
   {
     "slug": "volluto-decaffeinato",
@@ -1382,7 +1442,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_7932.40.jpg",
-    "price": 167000
+    "price": 2050000,
+    "oldPrice": null
   },
   {
     "slug": "world-explorations-coffee-selection-100-capsules",
@@ -1404,7 +1465,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/main_135414.jpg",
-    "price": 18685000
+    "price": 18685000,
+    "hidden": true
   },
   {
     "slug": "aeroccino-3-black-milk-frother",
@@ -1421,7 +1483,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-3-black.jpg",
-    "price": 22986000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "aeroccino-3-milk-frother-pink-edition",
@@ -1438,7 +1501,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_limited-edition-aeroccino-3-pink.jpg",
-    "price": 22986000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "aeroccino-3-red-milk-frother",
@@ -1455,7 +1519,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-3-red.jpg",
-    "price": 22986000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "aeroccino-3-white-milk-frother",
@@ -1472,7 +1537,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-3-white.jpg",
-    "price": 22986000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "aeroccino-4-milk-frother",
@@ -1489,7 +1555,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-4-milk-frother.jpg",
-    "price": 29256000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "aeroccino-xl-milk-frother",
@@ -1506,7 +1573,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-xl-milk-frother.jpg",
-    "price": 31346000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "affogato-dessert-bowl-set",
@@ -1523,7 +1591,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_affogato-dessert-bowls.jpg",
-    "price": 3549000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-cappuccino-coffee-cup-large",
@@ -1539,7 +1608,8 @@
       "from": "#2b1d13",
       "to": "#8a6a4f"
     },
-    "price": 6266000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-cappuccino-coffee-cup-medium",
@@ -1556,7 +1626,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-cappuccino-coffee-cup-medium.jpg",
-    "price": 5806000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-cappuccino-coffee-cup-small",
@@ -1573,7 +1644,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-cappuccino-coffee-cup-small.jpg",
-    "price": 5388000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-glass-tumbler-coffee-set",
@@ -1590,7 +1662,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_glass-tumblers.jpg",
-    "price": 5012000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-ice-cube-tray-yuzu",
@@ -1607,7 +1680,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_ice-cube-tray-yuzu.jpg",
-    "price": 2713000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-kit-enjoy-professional-coffee-at-home",
@@ -1624,7 +1698,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_recipe-kit.jpg",
-    "price": 2504000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-mixologist-stemmed-glass",
@@ -1641,7 +1716,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-mixologist-stemmed-glass.jpg",
-    "price": 2838000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-recipe-glass",
@@ -1658,7 +1734,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-recipe-glass-small.jpg",
-    "price": 5388000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-recipe-glass-large",
@@ -1675,7 +1752,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-recipe-glass-large.jpg",
-    "price": 6266000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "barista-tray-set-3-trays-barista-collection",
@@ -1692,7 +1770,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-tray-set.jpg",
-    "price": 7102000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "bubble-gum-travel-iced-coffee-tumbler",
@@ -1709,7 +1788,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-tumbler-bubble-gum.jpg",
-    "price": 5430000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "caran-d-ache-recycled-fixpencil",
@@ -1726,7 +1806,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_recycled-caran-dache-pen-limited-edition.jpg",
-    "price": 3131000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "caran-d-ache-ballpoint-pen",
@@ -1743,7 +1824,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_recycled-caran-dache-ballpen-limited-edition.jpg",
-    "price": 3131000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "descaling-kit",
@@ -1760,7 +1842,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_descaling-kit.jpg",
-    "price": 2796000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "display-vertical-original-capsule-holder",
@@ -1777,7 +1860,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_vertical-display-original.jpg",
-    "price": 9192000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "display-vertical-vertuo-capsule-holder",
@@ -1794,7 +1878,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_vertuo_vertical-display-vertuo.jpg",
-    "price": 9192000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "drawer-dispenser",
@@ -1811,7 +1896,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_coffee-capsule-drawer-dispenser.jpg",
-    "price": 16716000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "large-barista-mixology-glasses",
@@ -1828,7 +1914,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_large-barista-mixology-glasses.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "lavender-travel-iced-coffee-tumbler",
@@ -1845,7 +1932,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_lavender-tumbler.jpg",
-    "price": 5430000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "limited-edition-lavender-travel-mug",
@@ -1862,7 +1950,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_lavender-travel-mug.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "limited-edition-origin-lungo-lavender",
@@ -1879,7 +1968,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-lungo-lavender.jpg",
-    "price": 7938000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "limited-edition-travel-mug-bubble-gum",
@@ -1896,7 +1986,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-mug-bubble-gum.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "limited-edition-travel-mug-city-sun-yellow",
@@ -1913,7 +2004,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-mug-city-sun-yellow.jpg",
-    "price": 6893000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "limited-edition-travel-mug-vanilla-ice",
@@ -1930,7 +2022,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-mug-vanilla-ice.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "loop-mug-and-lid-set-by-huskee",
@@ -1947,7 +2040,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_loop-mug-lid-set.jpg",
-    "price": 4385000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "luma-mia-capsule-dispenser",
@@ -1964,7 +2058,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_lume-collection-capsule-dispenser.jpg",
-    "price": 8356000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "lume-collection-white-porcelain-coffee-mugs",
@@ -1981,7 +2076,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_lume-collection-coffee-mugs.jpg",
-    "price": 6684000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "mia-capsule-dispenser-large",
@@ -1998,7 +2094,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_display-collection-mia-dispenser-large.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nanofoamer-milk-frother",
@@ -2015,7 +2112,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_nanofoamer.jpg",
-    "price": 12536000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-aeroccino-3-purple-milk-frother",
@@ -2032,7 +2130,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_aeroccino-3-purple.jpg",
-    "price": 22986000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-barista-shaker",
@@ -2049,7 +2148,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_barista-shaker.jpg",
-    "price": 7938000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-glass-bowl-set",
@@ -2066,7 +2166,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_glass-bowls.jpg",
-    "price": 5430000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-vertuo-alto-set-alto-mugs-and-spoons",
@@ -2083,7 +2184,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_vertuo-alto-set.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "origin-collection-coffee-mug",
@@ -2100,7 +2202,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-accessories-collection-coffee-mug.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "origin-collection-espresso",
@@ -2117,7 +2220,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-accessories-collection-espresso.jpg",
-    "price": 6266000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "origin-collection-gran-lungo-coffee-cup",
@@ -2134,7 +2238,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-accessories-collection-gran-lungo.jpg",
-    "price": 8147000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "origin-collection-lungo-coffee-cup-set",
@@ -2151,7 +2256,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-accessories-collection-lungo.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "origin-collection-tray-coffee-accessories",
@@ -2168,7 +2274,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_origin-accessories-collection-tray.jpg",
-    "price": 5430000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "parchment-celebration-mug-nespress-t-rkiye",
@@ -2185,7 +2292,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_parchment-celebration-coffee-mug.jpg",
-    "price": 4176000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-espresso-arpeggio-espresso-cup",
@@ -2202,7 +2310,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_pixie-cup-arpeggio.jpg",
-    "price": 3465000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-espresso-istanbul-espresso-cup",
@@ -2219,7 +2328,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_istanbul-espresso-coffee-cups.jpg",
-    "price": 3465000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-espresso-paris-80-ml-espresso-cup",
@@ -2236,7 +2346,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_paris-espresso-coffee-cups.jpg",
-    "price": 3465000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-espresso-rio-de-janeiro-espresso-cup",
@@ -2253,7 +2364,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_rio-de-janeiro-espresso-coffee-cups.jpg",
-    "price": 3465000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-lungo-cup-shanghai",
@@ -2270,7 +2382,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_pixie-lungo-cup-shanghai.jpg",
-    "price": 3883000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-lungo-cup-stockholm",
@@ -2287,7 +2400,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_pixie-lungo-cup-stockholm.jpg",
-    "price": 3883000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-lungo-cup-tokyo",
@@ -2304,7 +2418,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_pixie-lungo-cup-tokyo.jpg",
-    "price": 3883000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-lungo-cup-vienna",
@@ -2321,7 +2436,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_pixie-lungo-cup-vienna.jpg",
-    "price": 3883000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "recycling-container",
@@ -2338,7 +2454,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_recycling-container-capsules.jpg",
-    "price": 4970000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "reveal-cold-coffee-tasting-glass-set",
@@ -2355,7 +2472,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_reveal-cold-coffee.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "reveal-espresso-mild-tasting-glasses",
@@ -2372,7 +2490,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_reveal-espresso-mild-set.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "reveal-intense-espresso-tasting-glasses",
@@ -2389,7 +2508,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_reveal-espresso-intense-set.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "reveal-lungo-glasses-set-of-2",
@@ -2406,7 +2526,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_reveal-lungo-glass.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "signature-gran-lungo-coffee-cup-set",
@@ -2422,7 +2543,8 @@
       "from": "#2b1d13",
       "to": "#8a6a4f"
     },
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "signature-large-coffee-mug-set",
@@ -2439,7 +2561,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_signature-mug-large.jpg",
-    "price": 8774000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "signature-medium-coffee-mug-set",
@@ -2456,7 +2579,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_signature-mug-medium.jpg",
-    "price": 8147000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "signature-small-coffee-mug-set",
@@ -2473,7 +2597,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_signature-mug-small.jpg",
-    "price": 7938000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "small-barista-mixology-glasses",
@@ -2490,7 +2615,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_small-barista-mixology-glasses.jpg",
-    "price": 6684000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "strawberry-celebration-mug",
@@ -2507,7 +2633,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_strawberry-celebration-coffee-mug.jpg",
-    "price": 4176000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "syrup-coffee-dispenser-nespress-t-rkiye",
@@ -2524,7 +2651,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_syrup-dispenser.jpg",
-    "price": 3758000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "tote-bag-lavender",
@@ -2541,7 +2669,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_tote-bag-lavender.jpg",
-    "price": 3340000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "touch-travel-mug",
@@ -2558,7 +2687,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_touch-travel-mug.jpg",
-    "price": 5848000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "travel-mug-large-smokey-blue",
@@ -2575,7 +2705,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-mug-large-smokey-blue.jpg",
-    "price": 8356000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "travel-mug-small-sage-green",
@@ -2592,7 +2723,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_travel-mug-small-sage-green.jpg",
-    "price": 6893000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-carafe-set-vertuo-collection",
@@ -2609,7 +2741,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_vertuo-carafe-set.jpg",
-    "price": 11700000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-gran-lungo-set",
@@ -2626,7 +2759,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_vertuo-gran-lungo-set.jpg",
-    "price": 7102000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-mug-medium-coffee-cup-set",
@@ -2643,7 +2777,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_vertuo-medium-coffee-mug-set.jpg",
-    "price": 7520000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-bonbonniere-coffee-capsule-dispenser",
@@ -2660,7 +2795,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_nespresso-bonbonniere-capsules-dispenser.jpg",
-    "price": 7478000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-mugs-in-tempered-glass",
@@ -2677,7 +2813,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_view-coffee-mug.jpg",
-    "price": 6057000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-recipe-glasses",
@@ -2694,7 +2831,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_view-recipe-glass.jpg",
-    "price": 5430000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-spoon-large",
@@ -2711,7 +2849,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_view-large-spoons.jpg",
-    "price": 4385000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-spoon-medium",
@@ -2728,7 +2867,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_view-medium-spoons.jpg",
-    "price": 4385000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "view-spoon-small",
@@ -2745,7 +2885,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_view-small-spoons.jpg",
-    "price": 4385000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "water-bottle-spring-leaf",
@@ -2762,7 +2903,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/accessories_original_water-bottle-spring-leaf.jpg",
-    "price": 4594000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "altissio-arabica-and-robusta-creamy-espresso",
@@ -2785,7 +2927,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_altissio-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "altissio-decaffeinato-coffee-capsule-espressos",
@@ -2810,7 +2953,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_altissio-decaffeinato-coffee-capsule.jpg",
-    "price": 188000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "arondio-long-black-coffee-crema",
@@ -2833,7 +2977,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_arondio-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "bianco-doppio-coffee-capsules-milk-recipes",
@@ -2854,7 +2999,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_bianco-doppio-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "bianco-forte-coffee-capsules-vertuo-barista-creations",
@@ -2875,7 +3021,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_bianco-forte-coffee-capsules.jpg",
-    "price": 229000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "carafe-pour-over-style-coffee-capsules-carafe-intense-coffee",
@@ -2896,7 +3043,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_carafe-pour-over-style-coffee-capsule.jpg",
-    "price": 367000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "cold-brew-style-intense-coffee-capsule",
@@ -2917,7 +3065,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_cold-brew-style-intense-coffee-capsule.jpg",
-    "price": 292000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "costa-rica-coffee-capsules-master-origin",
@@ -2940,7 +3089,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_costa-rica-coffee-capsule.jpg",
-    "price": 229000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "diavolitto-coffee-capsules-powerful-vertuo-espresso",
@@ -2964,7 +3114,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_diavolitto-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "double-espresso-chiaro-coffee-capsule",
@@ -2987,7 +3138,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-chiaro-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "double-espresso-chiaro-decaffeinato-coffee-capsule",
@@ -3012,7 +3164,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-chiaro-decaffeinato.jpg",
-    "price": 213000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "double-espresso-dolce-coffee-capsule-espressos",
@@ -3035,7 +3188,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-dolce-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "double-espresso-scuro-vertuo-capsules",
@@ -3059,7 +3213,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-scuro-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "fortado-coffee-capsules-gran-lungo-arabica-and-robusta-coffee",
@@ -3082,7 +3237,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_fortado-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "fortado-decaffeinato-coffee-capsule-coffee",
@@ -3107,7 +3263,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_fortado-decaffeinato-coffee-capsule.jpg",
-    "price": 213000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "ginseng-delight-coffee-capsule",
@@ -3128,7 +3285,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_ginseng-delight-coffee-capsule.jpg",
-    "price": 238000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "golden-caramel-coffee-capsules-barista-creations",
@@ -3149,7 +3307,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_golden-caramel-coffee-capsule.jpg",
-    "price": 242000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "half-caffeinato-vertuo-coffee-capsule",
@@ -3172,7 +3331,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_half-caffeinato-coffee-capsule.jpg",
-    "price": 229000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "inizio-coffee-capsule",
@@ -3195,7 +3355,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_inizio-coffee-capsule.jpg",
-    "price": 204000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "intenso-vertuo-intense-robusta-coffee-capsules",
@@ -3218,7 +3379,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_intenso-vertuo-coffee-capsule.jpg",
-    "price": 225000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "melozio-coffee-capsules-long-and-sweet-coffee",
@@ -3241,7 +3403,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-coffee-capsule.jpg",
-    "price": 225000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "melozio-decaffeinato-coffee-capsule-coffee",
@@ -3266,7 +3429,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-decaffeinato-coffee-capsule.jpg",
-    "price": 229000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "melozio-go-vertuo-coffee-capsule",
@@ -3289,7 +3453,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-go-coffee-capsule.jpg",
-    "price": 259000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "odacio-nicaragua-and-ethiopian-coffee",
@@ -3312,7 +3477,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_odacio-coffee-capsule.jpg",
-    "price": 225000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "orafio-coffee-capsule-espressos",
@@ -3335,7 +3501,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_orafio-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "rich-chocolate-coffee-capsules-barista-creations",
@@ -3356,7 +3523,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_rich-chocolate-coffee-capsule.jpg",
-    "price": 242000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "roasted-hazelnut-coffee-capsules-barista-creations",
@@ -3377,7 +3545,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_roasted-hazelnut-coffee-capsule.jpg",
-    "price": 242000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "solelio-coffee-capsules-long-fruity-and-light-roast-coffee",
@@ -3400,7 +3569,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_solelio-coffee-capsule.jpg",
-    "price": 225000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "stormio-coffee-capsules-rich-and-strong-arabica-coffee",
@@ -3423,7 +3593,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_stormio-coffee-capsule.jpg",
-    "price": 225000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "stormio-go-vertuo-coffee-capsule",
@@ -3446,7 +3617,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_stormio-go-coffee-capsule.jpg",
-    "price": 259000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "sweet-vanilla-barista-creations",
@@ -3467,7 +3639,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_sweet-vanilla-coffee-capsule.jpg",
-    "price": 242000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "sweet-vanilla-decaffeinato-coffee-capsule",
@@ -3490,7 +3663,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_sweet-vanilla-decaffeinato.jpg",
-    "price": 246000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-active-coffee-capsules",
@@ -3511,7 +3685,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_active-vertuo-coffee-capsule.jpg",
-    "price": 238000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-best-sellers-selection",
@@ -3533,7 +3708,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_vertuo-best-sellers-selection.jpg",
-    "price": 22154000
+    "price": 22154000,
+    "hidden": true
   },
   {
     "slug": "vertuo-coffee-discovery-set",
@@ -3554,7 +3730,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_pop-coffee-discovery-set.jpg",
-    "price": 10596000
+    "price": 10596000,
+    "hidden": true
   },
   {
     "slug": "vertuo-master-origin-mexico-mexican-coffee-capsules",
@@ -3577,7 +3754,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_mexico-coffee-capsule.jpg",
-    "price": 250000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-milk-integrated-discovery-set-70-capsules",
@@ -3598,7 +3776,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_vertuo-milkintegrated-discovery-set.jpg",
-    "price": 14669000
+    "price": 14669000,
+    "hidden": true
   },
   {
     "slug": "vertuo-ristretto-classico-coffe-capsule",
@@ -3621,7 +3800,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_ristretto-classico-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-ristretto-intenso-coffe-capsule",
@@ -3645,7 +3825,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_ristretto-intenso-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "vivida-vertuo-coffee-capsules",
@@ -3668,7 +3849,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_vivida-vertuo-coffee-capsule.jpg",
-    "price": 259000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "voltesso-coffee-capsules-espresso-coffee",
@@ -3691,7 +3873,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_voltesso-coffee-capsule.jpg",
-    "price": 184000
+    "price": 2790000,
+    "oldPrice": null
   },
   {
     "slug": "yuzu-vanilla-vertuo-coffee-capsules",
@@ -3712,7 +3895,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/capsules_vertuo_yuzu-vanilla-vertuo-coffee-capsule.jpg",
-    "price": 229000
+    "price": 2980000,
+    "oldPrice": null
   },
   {
     "slug": "citiz-platinum-c-series-coffee-machine",
@@ -3731,7 +3915,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_citiz-platinum-steel-c-machine.jpg",
-    "price": 79416000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "citiz-platinum-coffee-machine-and-aeroccino-3-milk-frother",
@@ -3750,7 +3935,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_citiz-platinum-milk-bundle-steel-d-machine.jpg",
-    "price": 87776000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "creatista-plus-latte-coffee-machine",
@@ -3769,7 +3955,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_creatista-plus.jpg",
-    "price": 192276000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "creatista-pro-coffee-machine",
@@ -3788,7 +3975,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_creatista-pro.jpg",
-    "price": 240346000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "essenza-mini-black-and-aeroccino-3-bundle",
@@ -3807,7 +3995,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_essenza-mini--black-bundle-aeroccino3.jpg",
-    "price": 60857000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "essenza-mini-d-matte-white",
@@ -3826,7 +4015,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_essenza-mini-d-matte-white.jpg",
-    "price": 48066000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "inissia-black-espresso-coffee-machine",
@@ -3845,7 +4035,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_inissia-black.jpg",
-    "price": 48066000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "lattissima-one-white-automatic-latte-machine",
@@ -3864,7 +4055,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_lattissima-one-porcelain-white.jpg",
-    "price": 96136000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-barista-shaker-169",
@@ -3883,7 +4075,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_barista-milk-frother.jpg",
-    "price": 62696000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-gran-lattissima-sophisticated-darks-coffee-machine",
@@ -3902,7 +4095,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_gran-lattissima-black.jpg",
-    "price": 133756000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "pixie-silver-coffee-machine",
@@ -3921,7 +4115,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_original_pixie-coffee-machine-silver.jpg",
-    "price": 58516000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "nespresso-vertuo-next-matt-black-vertuo-coffee-machine",
@@ -3940,7 +4135,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-next-matt-black.jpg",
-    "price": 79416000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-creatista-stainless-steel-coffee-machine",
@@ -3959,7 +4155,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-creatista-stainless-steel.jpg",
-    "price": 208996000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-lattissima-matte-black-coffee-machine",
@@ -3978,7 +4175,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-lattissima-black.jpg",
-    "price": 167196000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-next-rich-brown-coffee-machine",
@@ -3997,7 +4195,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-next-premium-rich-brown.jpg",
-    "price": 87776000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-pop-spicy-red-coffee-machine",
@@ -4016,7 +4215,8 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-pop-spicyred-nespresso-coffee-machine.jpg",
-    "price": 50156000
+    "price": 0,
+    "oldPrice": null
   },
   {
     "slug": "vertuo-pop-black-gold-coffee-machine",
@@ -4035,6 +4235,7 @@
       "to": "#8a6a4f"
     },
     "img": "/images/products/nespresso/machines_vertuo_vertuo-pop-plus-black-gold-coffee-machine.jpg",
-    "price": 75236000
+    "price": 0,
+    "oldPrice": null
   }
 ]

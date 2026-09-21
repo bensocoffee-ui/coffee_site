@@ -107,43 +107,46 @@ export default function Header() {
 
         <nav className="mx-auto hidden max-w-7xl items-stretch gap-1 px-4 pb-1 lg:flex">
           <Link
+            href="/categories/coffee"
+            className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
+          >
+            ☕ کپسول و قهوه
+          </Link>
+          <Link
+            href="/categories/machines"
+            className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
+          >
+            ⚙️ دستگاه‌های تخصصی
+          </Link>
+          <Link
+            href="/products?cat=accessory"
+            className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
+          >
+            🎁 اکسسوری و ماگ
+          </Link>
+          <Link
+            href="/#bestsellers"
+            className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
+          >
+            ⭐ منتخب‌های بنسو
+          </Link>
+          <Link
             href="/products"
             className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
           >
-            همه محصولات
+            کل کاتالوگ
           </Link>
-          {availableGroups.map((g) => (
-            <div key={g.key} className="group relative">
-              <button
-                type="button"
-                className="flex items-center gap-1 rounded-t-lg px-4 py-2.5 text-sm font-bold transition group-hover:bg-latte group-hover:text-caramel-dark"
-              >
-                {groups[g.key]} <span className="text-[10px]">▾</span>
-              </button>
-              <div className="invisible absolute start-0 top-full z-50 min-w-56 rounded-b-xl rounded-tl-xl border border-latte bg-white py-2 opacity-0 shadow-xl transition group-hover:visible group-hover:opacity-100">
-                {g.items.map((c) => (
-                  <Link
-                    key={c.slug}
-                    href={`/products?cat=${c.slug}`}
-                    className="block px-5 py-2.5 text-sm transition hover:bg-cream hover:text-caramel-dark"
-                  >
-                    {c.title}
-                  </Link>
-                ))}
-              </div>
-            </div>
-          ))}
           <Link
             href="/about"
             className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
           >
-            درباره ما
+            درباره بنسو
           </Link>
           <Link
             href="/contact"
             className="rounded-t-lg px-4 py-2.5 text-sm font-bold transition hover:bg-latte hover:text-caramel-dark"
           >
-            تماس با ما
+            کافه و تماس
           </Link>
         </nav>
       </div>
@@ -151,25 +154,45 @@ export default function Header() {
       {openMobile && (
         <div className="border-b border-latte bg-white px-4 py-4 lg:hidden">
           <SearchBox />
-          <div className="mt-4 space-y-4">
-          {availableGroups.map((g) => (
-              <div key={g.key}>
-                <p className="mb-1.5 font-bold text-caramel-dark">{groups[g.key]}</p>
-                {g.items.map((c) => (
-                  <Link
-                    key={c.slug}
-                    href={`/products?cat=${c.slug}`}
-                    onClick={() => setOpenMobile(false)}
-                    className="block py-1.5 ps-3 text-sm text-mocha"
-                  >
-                    {c.title}
-                  </Link>
-                ))}
-              </div>
-            ))}
+          <div className="mt-4 space-y-3">
+            <Link
+              href="/categories/coffee"
+              onClick={() => setOpenMobile(false)}
+              className="flex items-center gap-2 rounded-xl bg-latte/50 px-3 py-2 text-sm font-bold text-espresso"
+            >
+              ☕ کپسول و قهوه (اوریجینال و ورتو)
+            </Link>
+            <Link
+              href="/categories/machines"
+              onClick={() => setOpenMobile(false)}
+              className="flex items-center gap-2 rounded-xl bg-latte/50 px-3 py-2 text-sm font-bold text-espresso"
+            >
+              ⚙️ دستگاه‌های تخصصی نسپرسو
+            </Link>
+            <Link
+              href="/products?cat=accessory"
+              onClick={() => setOpenMobile(false)}
+              className="flex items-center gap-2 rounded-xl bg-latte/50 px-3 py-2 text-sm font-bold text-espresso"
+            >
+              🎁 اکسسوری و ماگ
+            </Link>
+            <Link
+              href="/#bestsellers"
+              onClick={() => setOpenMobile(false)}
+              className="flex items-center gap-2 rounded-xl bg-latte/50 px-3 py-2 text-sm font-bold text-espresso"
+            >
+              ⭐ منتخب‌های محبوب بنسو
+            </Link>
+            <Link
+              href="/products"
+              onClick={() => setOpenMobile(false)}
+              className="block px-3 py-1.5 text-sm font-bold text-mocha"
+            >
+              مشاهده کل کاتالوگ فروشگاه
+            </Link>
             <div className="flex gap-4 border-t border-latte pt-3 text-sm font-bold">
-              <Link href="/about" onClick={() => setOpenMobile(false)}>درباره ما</Link>
-              <Link href="/contact" onClick={() => setOpenMobile(false)}>تماس با ما</Link>
+              <Link href="/about" onClick={() => setOpenMobile(false)}>درباره بنسو</Link>
+              <Link href="/contact" onClick={() => setOpenMobile(false)}>کافه و تماس</Link>
             </div>
           </div>
         </div>

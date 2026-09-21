@@ -48,17 +48,42 @@ export default function ProductCard({ product }: { product: Product }) {
         )}
         <RatingStars rating={product.rating} reviews={product.reviews} />
         <div className="mt-auto pt-2">
-          {product.oldPrice && (
-            <div className="text-xs text-taiga line-through">
-              {formatToman(product.oldPrice)}
-            </div>
+          {product.category.startsWith("machine") || product.category === "accessory" || product.price === 0 ? (
+            <>
+              <div className="text-base font-black text-caramel-dark">
+                برای قیمت تماس بگیرید
+              </div>
+              <span className="text-[11px] text-taiga">
+                {product.category.startsWith("machine") ? "۱۸ ماه گارانتی تعویض بنسو" : "اصالت ۱۰۰٪ کالا"}
+              </span>
+              <div className="mt-3">
+                <Link
+                  href={`/products/${product.slug}`}
+                  className="flex w-full items-center justify-center gap-1.5 rounded-xl border border-espresso/20 bg-latte py-2 text-xs font-bold text-espresso transition hover:bg-sand"
+                >
+                  <span>مشاهده و استعلام</span>
+                  <span>📞</span>
+                </Link>
+              </div>
+            </>
+          ) : (
+            <>
+              {product.oldPrice && (
+                <div className="text-xs text-taiga line-through">
+                  {formatToman(product.oldPrice)}
+                </div>
+              )}
+              <div className="text-lg font-extrabold text-espresso">
+                {formatToman(product.price)}
+              </div>
+              <span className="text-[11px] font-medium text-taiga">
+                بسته ۱۰ عددی کپسول
+              </span>
+              <div className="mt-3">
+                <AddToCart slug={product.slug} className="w-full !py-2.5 text-sm" />
+              </div>
+            </>
           )}
-          <div className="text-lg font-extrabold text-espresso">
-            {formatToman(product.price)}
-          </div>
-          <div className="mt-3">
-            <AddToCart slug={product.slug} className="w-full !py-2.5 text-sm" />
-          </div>
         </div>
       </div>
     </div>
