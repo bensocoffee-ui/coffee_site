@@ -30,6 +30,7 @@ export type Product = {
   features: string[];
   art: { type: ArtType; from: string; to: string };
   img?: string;
+  sleeve_img?: string;
   /** ناموجود موقت — از سایت حذف می‌شود ولی در پنل قابل بازگشت است */
   hidden?: boolean;
 };

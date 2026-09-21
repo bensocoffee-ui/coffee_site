@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import ProductMedia from "@/components/ProductMedia";
+import ProductGallery from "@/components/ProductGallery";
 import ProductCard from "@/components/ProductCard";
 import RatingStars from "@/components/RatingStars";
 import AddToCart from "@/components/AddToCart";
@@ -65,19 +66,7 @@ export default async function ProductPage(
 
       <div className="grid gap-10 lg:grid-cols-[1fr_1fr]">
         {/* visual */}
-        <div className="group relative overflow-hidden rounded-3xl border border-latte shadow-sm">
-          <div className="relative aspect-square w-full bg-latte">
-            <ProductMedia
-              product={product}
-              sizes="(max-width: 1024px) 100vw, 50vw"
-            />
-          </div>
-          {off > 0 && (
-            <span className="absolute top-5 right-5 rounded-full bg-red-600 px-4 py-1.5 text-sm font-extrabold text-white">
-              ٪{faNumber(off)} تخفیف
-            </span>
-          )}
-        </div>
+        <ProductGallery product={product} discount={off} />
 
         {/* info */}
         <div className="flex flex-col gap-5">

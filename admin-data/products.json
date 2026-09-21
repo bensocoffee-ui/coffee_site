@@ -21,7 +21,8 @@
     },
     "img": "/images/products/nespresso/main_7928.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/arpeggio-sleeve.png"
   },
   {
     "slug": "arpeggio-decaffeinato",
@@ -47,7 +48,8 @@
     },
     "img": "/images/products/nespresso/main_7943.40.jpg",
     "price": 2050000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/arpeggio-decaffeinato-sleeve.png"
   },
   {
     "slug": "arpeggio-extra",
@@ -71,7 +73,8 @@
     },
     "img": "/images/products/nespresso/main_7967.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/arpeggio-extra-sleeve.png"
   },
   {
     "slug": "athens-freddo-intenso",
@@ -94,7 +97,8 @@
     },
     "img": "/images/products/nespresso/main_7944.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/athens-freddo-intenso-sleeve.png"
   },
   {
     "slug": "barista-coffee-selection-80-capsules",
@@ -141,7 +145,8 @@
     },
     "img": "/images/products/nespresso/main_7946.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/buenos-aires-lungo-sleeve.png"
   },
   {
     "slug": "cape-town-lungo",
@@ -165,7 +170,8 @@
     },
     "img": "/images/products/nespresso/main_7948.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/cape-town-lungo-sleeve.png"
   },
   {
     "slug": "capriccio",
@@ -189,7 +195,8 @@
     },
     "img": "/images/products/nespresso/main_7961.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/capriccio-sleeve.png"
   },
   {
     "slug": "caramello",
@@ -212,7 +219,8 @@
     },
     "img": "/images/products/nespresso/main_7964.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/caramello-sleeve.png"
   },
   {
     "slug": "chiaro",
@@ -235,7 +243,8 @@
     },
     "img": "/images/products/nespresso/main_7892.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/chiaro-sleeve.png"
   },
   {
     "slug": "cinnamon-and-candied-tamarind",
@@ -258,7 +267,8 @@
     },
     "img": "/images/products/nespresso/main_7903.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/cinnamon-and-candied-tamarind-sleeve.jpg"
   },
   {
     "slug": "cioccolatino",
@@ -281,7 +291,8 @@
     },
     "img": "/images/products/nespresso/main_7968.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/cioccolatino-sleeve.jpg"
   },
   {
     "slug": "colombia",
@@ -305,7 +316,8 @@
     },
     "img": "/images/products/nespresso/main_7929.40.jpg",
     "price": 2480000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/colombia-sleeve.png"
   },
   {
     "slug": "corto",
@@ -328,7 +340,8 @@
     },
     "img": "/images/products/nespresso/main_7871.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/corto-sleeve.png"
   },
   {
     "slug": "cosi",
@@ -352,7 +365,8 @@
     },
     "img": "/images/products/nespresso/main_7969.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/cosi-sleeve.png"
   },
   {
     "slug": "ethiopia",
@@ -376,7 +390,8 @@
     },
     "img": "/images/products/nespresso/main_7886.40.jpg",
     "price": 2480000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ethiopia-sleeve.png"
   },
   {
     "slug": "fall-coffee-selection-100-capsules",
@@ -446,7 +461,8 @@
     },
     "img": "/images/products/nespresso/main_7919.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/festive-collection-espresso-sleeve.jpg"
   },
   {
     "slug": "filter-style-intense",
@@ -469,7 +485,8 @@
     },
     "img": "/images/products/nespresso/main_7780.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/filter-style-intense-sleeve.jpg"
   },
   {
     "slug": "filter-style-mild",
@@ -492,7 +509,8 @@
     },
     "img": "/images/products/nespresso/main_7783.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/filter-style-mild-sleeve.jpg"
   },
   {
     "slug": "freddo-delicato",
@@ -515,7 +533,8 @@
     },
     "img": "/images/products/nespresso/main_7870.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/freddo-delicato-sleeve.jpg"
   },
   {
     "slug": "freddo-intenso",
@@ -538,7 +557,8 @@
     },
     "img": "/images/products/nespresso/main_7883.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/freddo-intenso-sleeve.png"
   },
   {
     "slug": "india",
@@ -563,7 +583,8 @@
     },
     "img": "/images/products/nespresso/main_7977.40.jpg",
     "price": 2480000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/india-sleeve.png"
   },
   {
     "slug": "indonesia",
@@ -587,7 +608,8 @@
     },
     "img": "/images/products/nespresso/main_7975.40.jpg",
     "price": 2480000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/indonesia-sleeve.png"
   },
   {
     "slug": "ispirazione-italiana-coffee-selection-100-capsules",
@@ -635,7 +657,8 @@
     },
     "img": "/images/products/nespresso/main_7984.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ispirazione-napoli-sleeve.png"
   },
   {
     "slug": "ispirazione-roma",
@@ -659,7 +682,8 @@
     },
     "img": "/images/products/nespresso/main_7985.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ispirazione-roma-sleeve.png"
   },
   {
     "slug": "ispirazione-venezia",
@@ -683,7 +707,8 @@
     },
     "img": "/images/products/nespresso/main_7986.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ispirazione-venezia-sleeve.png"
   },
   {
     "slug": "istanbul-espresso",
@@ -707,7 +732,8 @@
     },
     "img": "/images/products/nespresso/main_7877.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/istanbul-espresso-sleeve.png"
   },
   {
     "slug": "kazaar",
@@ -732,7 +758,8 @@
     },
     "img": "/images/products/nespresso/main_7972.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/kazaar-sleeve.png"
   },
   {
     "slug": "light-roast-coffee-selection-50-capsules",
@@ -779,7 +806,8 @@
     },
     "img": "/images/products/nespresso/main_7979.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/livanto-sleeve.png"
   },
   {
     "slug": "lungo-coffee-selection-100-capsules",
@@ -826,7 +854,8 @@
     },
     "img": "/images/products/nespresso/main_7791.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/milano-intenso-sleeve.jpg"
   },
   {
     "slug": "maple-pecan-original",
@@ -849,7 +878,8 @@
     },
     "img": "/images/products/nespresso/main_7917.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/maple-pecan-original-sleeve.png"
   },
   {
     "slug": "nespresso-t-rkiye-best-sellers-100-capsules",
@@ -918,7 +948,8 @@
     },
     "img": "/images/products/nespresso/main_7973.40.jpg",
     "price": 2480000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/nicaragua-sleeve.png"
   },
   {
     "slug": "nocciola",
@@ -941,7 +972,8 @@
     },
     "img": "/images/products/nespresso/main_7937.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/nocciola-sleeve.png"
   },
   {
     "slug": "original-summer-coffee-selection-100-capsules",
@@ -988,7 +1020,8 @@
     },
     "img": "/images/products/nespresso/main_7965.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/paris-espresso-sleeve.png"
   },
   {
     "slug": "peanut-and-roasted-sesame-flavour-original-coffee",
@@ -1011,7 +1044,8 @@
     },
     "img": "/images/products/nespresso/main_7850.04.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/peanut-and-roasted-sesame-flavour-original-coffee-sleeve.jpg"
   },
   {
     "slug": "pistachio-vanilla-flavour-over-ice-original",
@@ -1034,7 +1068,8 @@
     },
     "img": "/images/products/nespresso/main_7906.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/pistachio-vanilla-flavour-over-ice-original-sleeve.jpg"
   },
   {
     "slug": "premium-coffee-selection-50-capsules",
@@ -1080,7 +1115,8 @@
     },
     "img": "/images/products/nespresso/main_7835.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/pumpkin-spice-cake-original-sleeve.png"
   },
   {
     "slug": "rio-de-janeiro-espresso",
@@ -1104,7 +1140,8 @@
     },
     "img": "/images/products/nespresso/main_7966.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/rio-de-janeiro-espresso-sleeve.jpg"
   },
   {
     "slug": "ristretto",
@@ -1128,7 +1165,8 @@
     },
     "img": "/images/products/nespresso/main_7987.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ristretto-sleeve.png"
   },
   {
     "slug": "ristretto-decaffeinato",
@@ -1154,7 +1192,8 @@
     },
     "img": "/images/products/nespresso/main_7980.40.jpg",
     "price": 2050000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ristretto-decaffeinato-sleeve.png"
   },
   {
     "slug": "scuro",
@@ -1177,7 +1216,8 @@
     },
     "img": "/images/products/nespresso/main_7891.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/scuro-sleeve.png"
   },
   {
     "slug": "shanghai-lungo",
@@ -1201,7 +1241,8 @@
     },
     "img": "/images/products/nespresso/main_7947.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/shanghai-lungo-sleeve.png"
   },
   {
     "slug": "stockholm-lungo",
@@ -1225,7 +1266,8 @@
     },
     "img": "/images/products/nespresso/main_7926.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/stockholm-lungo-sleeve.png"
   },
   {
     "slug": "sweet-almond-and-hibiscus",
@@ -1248,7 +1290,8 @@
     },
     "img": "/images/products/nespresso/main_7907.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/sweet-almond-and-hibiscus-sleeve.jpg"
   },
   {
     "slug": "tokyo-lungo",
@@ -1272,7 +1315,8 @@
     },
     "img": "/images/products/nespresso/main_7936.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/tokyo-lungo-sleeve.png"
   },
   {
     "slug": "vanilla-eclair",
@@ -1295,7 +1339,8 @@
     },
     "img": "/images/products/nespresso/main_7753.40.jpg",
     "price": 2390000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vanilla-eclair-sleeve.png"
   },
   {
     "slug": "vaniglia",
@@ -1318,7 +1363,8 @@
     },
     "img": "/images/products/nespresso/main_7933.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vaniglia-sleeve.png"
   },
   {
     "slug": "vaniglia-decaffeinato",
@@ -1343,7 +1389,8 @@
     },
     "img": "/images/products/nespresso/main_7988.40.jpg",
     "price": 2050000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vaniglia-decaffeinato-sleeve.png"
   },
   {
     "slug": "vienna-lungo",
@@ -1367,7 +1414,8 @@
     },
     "img": "/images/products/nespresso/main_7959.40.jpg",
     "price": 2280000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vienna-lungo-sleeve.png"
   },
   {
     "slug": "vienna-lungo-decaffeinato",
@@ -1393,7 +1441,8 @@
     },
     "img": "/images/products/nespresso/main_7051.40.jpg",
     "price": 2050000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vienna-lungo-decaffeinato-sleeve.png"
   },
   {
     "slug": "volluto",
@@ -1417,7 +1466,8 @@
     },
     "img": "/images/products/nespresso/main_7983.40.jpg",
     "price": 1980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/volluto-sleeve.png"
   },
   {
     "slug": "volluto-decaffeinato",
@@ -1443,7 +1493,8 @@
     },
     "img": "/images/products/nespresso/main_7932.40.jpg",
     "price": 2050000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/volluto-decaffeinato-sleeve.png"
   },
   {
     "slug": "world-explorations-coffee-selection-100-capsules",
@@ -2928,7 +2979,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_altissio-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/altissio-arabica-and-robusta-creamy-espresso-sleeve.png"
   },
   {
     "slug": "altissio-decaffeinato-coffee-capsule-espressos",
@@ -2954,7 +3006,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_altissio-decaffeinato-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/altissio-decaffeinato-coffee-capsule-espressos-sleeve.png"
   },
   {
     "slug": "arondio-long-black-coffee-crema",
@@ -2978,7 +3031,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_arondio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/arondio-long-black-coffee-crema-sleeve.png"
   },
   {
     "slug": "bianco-doppio-coffee-capsules-milk-recipes",
@@ -3000,7 +3054,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_bianco-doppio-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/bianco-doppio-coffee-capsules-milk-recipes-sleeve.png"
   },
   {
     "slug": "bianco-forte-coffee-capsules-vertuo-barista-creations",
@@ -3022,7 +3077,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_bianco-forte-coffee-capsules.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/bianco-forte-coffee-capsules-vertuo-barista-creations-sleeve.png"
   },
   {
     "slug": "carafe-pour-over-style-coffee-capsules-carafe-intense-coffee",
@@ -3044,7 +3100,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_carafe-pour-over-style-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/carafe-pour-over-style-coffee-capsules-carafe-intense-coffee-sleeve.png"
   },
   {
     "slug": "cold-brew-style-intense-coffee-capsule",
@@ -3066,7 +3123,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_cold-brew-style-intense-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/cold-brew-style-intense-coffee-capsule-sleeve.png"
   },
   {
     "slug": "costa-rica-coffee-capsules-master-origin",
@@ -3090,7 +3148,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_costa-rica-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/costa-rica-coffee-capsules-master-origin-sleeve.png"
   },
   {
     "slug": "diavolitto-coffee-capsules-powerful-vertuo-espresso",
@@ -3115,7 +3174,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_diavolitto-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/diavolitto-coffee-capsules-powerful-vertuo-espresso-sleeve.png"
   },
   {
     "slug": "double-espresso-chiaro-coffee-capsule",
@@ -3139,7 +3199,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-chiaro-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/double-espresso-chiaro-coffee-capsule-sleeve.png"
   },
   {
     "slug": "double-espresso-chiaro-decaffeinato-coffee-capsule",
@@ -3165,7 +3226,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-chiaro-decaffeinato.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/double-espresso-chiaro-decaffeinato-coffee-capsule-sleeve.png"
   },
   {
     "slug": "double-espresso-dolce-coffee-capsule-espressos",
@@ -3189,7 +3251,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-dolce-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/double-espresso-dolce-coffee-capsule-espressos-sleeve.png"
   },
   {
     "slug": "double-espresso-scuro-vertuo-capsules",
@@ -3214,7 +3277,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_double-espresso-scuro-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/double-espresso-scuro-vertuo-capsules-sleeve.png"
   },
   {
     "slug": "fortado-coffee-capsules-gran-lungo-arabica-and-robusta-coffee",
@@ -3238,7 +3302,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_fortado-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/fortado-coffee-capsules-gran-lungo-arabica-and-robusta-coffee-sleeve.png"
   },
   {
     "slug": "fortado-decaffeinato-coffee-capsule-coffee",
@@ -3264,7 +3329,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_fortado-decaffeinato-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/fortado-decaffeinato-coffee-capsule-coffee-sleeve.png"
   },
   {
     "slug": "ginseng-delight-coffee-capsule",
@@ -3286,7 +3352,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_ginseng-delight-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/ginseng-delight-coffee-capsule-sleeve.png"
   },
   {
     "slug": "golden-caramel-coffee-capsules-barista-creations",
@@ -3308,7 +3375,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_golden-caramel-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/golden-caramel-coffee-capsules-barista-creations-sleeve.png"
   },
   {
     "slug": "half-caffeinato-vertuo-coffee-capsule",
@@ -3332,7 +3400,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_half-caffeinato-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/half-caffeinato-vertuo-coffee-capsule-sleeve.png"
   },
   {
     "slug": "inizio-coffee-capsule",
@@ -3356,7 +3425,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_inizio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/inizio-coffee-capsule-sleeve.png"
   },
   {
     "slug": "intenso-vertuo-intense-robusta-coffee-capsules",
@@ -3380,7 +3450,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_intenso-vertuo-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/intenso-vertuo-intense-robusta-coffee-capsules-sleeve.png"
   },
   {
     "slug": "melozio-coffee-capsules-long-and-sweet-coffee",
@@ -3404,7 +3475,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/melozio-coffee-capsules-long-and-sweet-coffee-sleeve.png"
   },
   {
     "slug": "melozio-decaffeinato-coffee-capsule-coffee",
@@ -3430,7 +3502,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-decaffeinato-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/melozio-decaffeinato-coffee-capsule-coffee-sleeve.png"
   },
   {
     "slug": "melozio-go-vertuo-coffee-capsule",
@@ -3454,7 +3527,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_melozio-go-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/melozio-go-vertuo-coffee-capsule-sleeve.png"
   },
   {
     "slug": "odacio-nicaragua-and-ethiopian-coffee",
@@ -3478,7 +3552,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_odacio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/odacio-nicaragua-and-ethiopian-coffee-sleeve.png"
   },
   {
     "slug": "orafio-coffee-capsule-espressos",
@@ -3502,7 +3577,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_orafio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/orafio-coffee-capsule-espressos-sleeve.png"
   },
   {
     "slug": "rich-chocolate-coffee-capsules-barista-creations",
@@ -3524,7 +3600,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_rich-chocolate-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/rich-chocolate-coffee-capsules-barista-creations-sleeve.png"
   },
   {
     "slug": "roasted-hazelnut-coffee-capsules-barista-creations",
@@ -3546,7 +3623,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_roasted-hazelnut-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/roasted-hazelnut-coffee-capsules-barista-creations-sleeve.png"
   },
   {
     "slug": "solelio-coffee-capsules-long-fruity-and-light-roast-coffee",
@@ -3570,7 +3648,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_solelio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/solelio-coffee-capsules-long-fruity-and-light-roast-coffee-sleeve.png"
   },
   {
     "slug": "stormio-coffee-capsules-rich-and-strong-arabica-coffee",
@@ -3594,7 +3673,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_stormio-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/stormio-coffee-capsules-rich-and-strong-arabica-coffee-sleeve.png"
   },
   {
     "slug": "stormio-go-vertuo-coffee-capsule",
@@ -3618,7 +3698,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_stormio-go-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/stormio-go-vertuo-coffee-capsule-sleeve.png"
   },
   {
     "slug": "sweet-vanilla-barista-creations",
@@ -3640,7 +3721,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_sweet-vanilla-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/sweet-vanilla-barista-creations-sleeve.png"
   },
   {
     "slug": "sweet-vanilla-decaffeinato-coffee-capsule",
@@ -3664,7 +3746,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_sweet-vanilla-decaffeinato.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/sweet-vanilla-decaffeinato-coffee-capsule-sleeve.png"
   },
   {
     "slug": "vertuo-active-coffee-capsules",
@@ -3686,7 +3769,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_active-vertuo-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vertuo-active-coffee-capsules-sleeve.png"
   },
   {
     "slug": "vertuo-best-sellers-selection",
@@ -3755,7 +3839,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_mexico-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vertuo-master-origin-mexico-mexican-coffee-capsules-sleeve.png"
   },
   {
     "slug": "vertuo-milk-integrated-discovery-set-70-capsules",
@@ -3801,7 +3886,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_ristretto-classico-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vertuo-ristretto-classico-coffe-capsule-sleeve.png"
   },
   {
     "slug": "vertuo-ristretto-intenso-coffe-capsule",
@@ -3826,7 +3912,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_ristretto-intenso-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vertuo-ristretto-intenso-coffe-capsule-sleeve.png"
   },
   {
     "slug": "vivida-vertuo-coffee-capsules",
@@ -3850,7 +3937,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_vivida-vertuo-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/vivida-vertuo-coffee-capsules-sleeve.png"
   },
   {
     "slug": "voltesso-coffee-capsules-espresso-coffee",
@@ -3874,7 +3962,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_voltesso-coffee-capsule.jpg",
     "price": 2790000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/voltesso-coffee-capsules-espresso-coffee-sleeve.png"
   },
   {
     "slug": "yuzu-vanilla-vertuo-coffee-capsules",
@@ -3896,7 +3985,8 @@
     },
     "img": "/images/products/nespresso/capsules_vertuo_yuzu-vanilla-vertuo-coffee-capsule.jpg",
     "price": 2980000,
-    "oldPrice": null
+    "oldPrice": null,
+    "sleeve_img": "/images/products/sleeves/yuzu-vanilla-vertuo-coffee-capsules-sleeve.jpg"
   },
   {
     "slug": "citiz-platinum-c-series-coffee-machine",

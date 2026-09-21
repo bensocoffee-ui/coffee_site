@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import ProductMedia from "@/components/ProductMedia";
 import RatingStars from "@/components/RatingStars";
 import AddToCart from "@/components/AddToCart";
@@ -17,8 +18,42 @@ export default function ProductCard({ product }: { product: Product }) {
         href={`/products/${product.slug}`}
         className="relative block aspect-[4/3] w-full overflow-hidden bg-latte"
       >
-        <ProductMedia product={product} />
-        <div className="absolute top-3 right-3 flex flex-col items-start gap-2">
+        {product.sleeve_img ? (
+          <>
+            {/* تصویر اصلی: اسلیو ۱۰ تایی */}
+            <div className="absolute inset-0 flex items-center justify-center bg-[#fdfbf9] p-3">
+              <Image
+                src={product.sleeve_img}
+                alt={`${product.name} - بسته ۱۰ عددی`}
+                fill
+                sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"
+                className="object-contain p-2 transition-transform duration-300 group-hover:scale-105"
+              />
+              <span className="absolute bottom-2.5 left-2.5 z-10 rounded-md bg-stone-900/80 px-2 py-0.5 text-[10px] font-bold text-amber-300 shadow backdrop-blur-sm">
+                بسته ۱۰ عددی 📦
+              </span>
+            </div>
+
+            {/* تصویر دوم در هاور: تک کپسول */}
+            {product.img && (
+              <div className="absolute inset-0 z-[1] flex items-center justify-center bg-[#fcfaf7] p-4 opacity-0 transition-opacity duration-300 group-hover:opacity-100">
+                <Image
+                  src={product.img}
+                  alt={`${product.name} - تک کپسول`}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"
+                  className="object-contain p-3 transition-transform duration-300 group-hover:scale-110"
+                />
+                <span className="absolute bottom-2.5 left-2.5 z-10 rounded-md bg-espresso/90 px-2 py-0.5 text-[10px] font-bold text-latte shadow backdrop-blur-sm">
+                  نمای کپسول
+                </span>
+              </div>
+            )}
+          </>
+        ) : (
+          <ProductMedia product={product} />
+        )}
+        <div className="absolute top-3 right-3 z-10 flex flex-col items-start gap-2">
           {off > 0 && (
             <span className="rounded-full bg-red-600 px-2.5 py-1 text-xs font-bold text-white">
               ٪{faNumber(off)} تخفیف
